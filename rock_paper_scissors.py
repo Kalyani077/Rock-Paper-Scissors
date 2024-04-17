@@ -19,5 +19,6 @@ def rock_paper_scissors():
         rock_paper_scissors()
     else:
         print("thank you for playing")
+        exit()
 print("Welcome to the game rock_paper_scissors")
 rock_paper_scissors()
